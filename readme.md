@@ -1,9 +1,5 @@
 ## CC Attribution-NonCommercial-ShareAlike 4.0 International
 
-To add a CC BY-NC-SA License to your project, just add the following to your
-`README.md`. You should also copy the corresponding [license text
-file](LICENSE-CC-BY-NC-SA) and rename it to `LICENSE`.
-
 ```markdown
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
